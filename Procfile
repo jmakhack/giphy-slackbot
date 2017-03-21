@@ -1,1 +1,1 @@
-worker: python spongebob.py
+worker: python giphy-slackbot.py
